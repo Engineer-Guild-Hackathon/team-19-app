@@ -1,46 +1,23 @@
-# TechTok 起動方法
+# ここにチーム番号とチーム名を入れてください
 
-## 1. devcontainer の起動
+このリポジトリはハッカソン提出用の雛形です。以下の項目をすべて埋めてください。
 
-### 利点
+---
 
-プログラミング言語やフレームワークの install を devcontainer が自動でやってくれます
+## チーム情報
+- チーム番号: 19
+- チーム名: WACPACERS
+- プロダクト名: TechTok
+- メンバー
+  - Kohsei Nomura
+  - Nobuhiro Oto
+  - Yuki Saijo
+  - Yuhi Chiba
+  - Katsuki Suzuta
+  - Yuta Hasumi
 
-### 前提
+---
 
-1. vscode が install されてること
-2. vscode 拡張機能、「Remote - Development」extension が install されてること
-
-### 起動
-
-```bash
-$ git clone https://github.com/WNomunomu/techtok.git
-$ cd techtok
-$ code . # vscode で techtok directory を open
-
-# ctrl + shift + p でコマンドパレットを開く
-# reopen in devcontainer を実行
-# TechTok-FullStack-Devcontainer が起動
-
-```
-
-## 2. 各 application の起動
-
-### frontend
-
-```bash
-$ cd frontend
-$ bun install
-$ bun run dev
-
-# もし command not found: bun になったら
-# devcontainer 修正の余地あり
-$ source ~/.bashrc
-```
-
-### backend
-
-```bash
-$ cd backend
-$ ./gradlew bootRun
-```
+## デモ　/ プレゼン資料
+- デモURL: 
+- プレゼンURL： https://www.canva.com/design/DAGyrp63JsM/BBIrZ05nI37Y73bqov3ppw/view?utm_content=DAGyrp63JsM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h620662c43a
