@@ -19,6 +19,7 @@
 ---
 
 ## デモ　/ プレゼン資料
-- デモURL: 
-- プレゼンURL： https://www.canva.com/design/DAGyrp63JsM/BBIrZ05nI37Y73bqov3ppw/view?utm_content=DAGyrp63JsM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h620662c43a
 - 元レポジトリ： https://github.com/WNomunomu/techtok
+- デモURL: https://techtok-chi.vercel.app/
+- プレゼンURL： https://www.canva.com/design/DAGyrp63JsM/BBIrZ05nI37Y73bqov3ppw/view?utm_content=DAGyrp63JsM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h620662c43a
+
